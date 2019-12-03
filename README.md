@@ -20,8 +20,11 @@ in this repo to have each function in its own module component.
 
 ## Install
 `yarn` - Installs dependencies
+
 `yarn start` - Starts dev server and loads code on `localhost` and watches for changes
+
 `yarn build` - builds out HTML and JS external file
+
 `yarn watch` - Builds HTML and external JS and watches for changes
 
 ## Code
